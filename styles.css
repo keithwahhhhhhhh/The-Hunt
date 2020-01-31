@@ -1,0 +1,124 @@
+.home {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: green;
+}
+
+img {
+    height: 170px;
+    display: flex;
+    justify-content: center;
+    border: double green 10px;
+}
+
+button {
+    display: block;
+    justify-content: center;
+    margin:40px;
+}
+
+body {
+    background-image: url(http://lolstatic-a.akamaihd.net/site/bilgewater/e70e1ad99c9a02f580be10f7491f96a87428ba6d/img/act-1/act-1-world-layer-base.jpg);
+}
+
+.home1 {
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+.page1 {
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+.page2 {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+}
+.page25 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+  padding:150px;
+    color: green;
+}
+.page26 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+  padding:120px;
+    color: green;
+    justify-content: center;
+}
+.key1 {
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+.endmsg {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+  padding:12px;
+    color: red;
+    justify-content: center;
+    display:flex;
+}
+.treasure1 {
+    justify-content: center;
+    display:flex;
+border: double black 10px;
+}
+
+.treasure2 {
+    justify-content: center;
+    display:flex;
+border: double blue 10px;
+}
+.treasure3 {
+    justify-content: center;
+    display:flex;
+border: double red 10px;
+}
+.treasure4 {
+    justify-content: center;
+    display:flex;
+border: double green 10px;
+}
+.money {
+    justify-content: center;
+    display:flex;
+border: double red 10px;
+}
+.final {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+  padding:12px;
+    color: red;
+    justify-content: center;
+    display:flex;
+}
+.money1 {
+    justify-content: center;
+    display:flex;
+border: double blue 10px;
+display: flex;
+    height: 100px;
+    justify-content: center;
+}
+.money2 {
+    justify-content: center;
+    display:flex;
+border: double blue 10px;
+display: flex;
+    height: 100px;
+    justify-content: center;
+}
+.money3 {
+    justify-content: center;
+    display:flex;
+border: double blue 10px;
+display: flex;
+    height: 100px;
+    justify-content: center;
+}
